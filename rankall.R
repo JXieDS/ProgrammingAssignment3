@@ -11,13 +11,13 @@ rankall <- function(outcome, num = "best") {
         ## Read outcome data
   
   
-        ## Check that state adn outcome are valid
+        ## Check that outcome is valid
   
   
         ## For each state, find the hospital of the given rank
   
   
-        ## Return a  data frame with teh hospital names adn the abbrev. state name
+        ## Return a  data frame with the hospital names and the abbrev. state name
   
   
   
